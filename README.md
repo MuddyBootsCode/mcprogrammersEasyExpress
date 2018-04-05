@@ -8,5 +8,5 @@ To get the project up and running:
 2) CD into the project directory
 3) NPM install
 4) Node app - will start the server which will run on localhost:3000
-5 / is the home route, /about will show mock about page, anything else will take you to the error page
+5) "/" is the home route, "/about" will show mock about page, "*" anything else will take you to the error page
 6) Happy Coding!
