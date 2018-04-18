@@ -7,6 +7,6 @@ To get the project up and running:
 1) Clone the project
 2) CD into the project directory
 3) Run `npm install`
-4) Node app - will start the server which will run on localhost:3000
+4) Then run `node app` - will start the server which will run on localhost:8000
 5) "/" is the home route, "/about" will show mock about page, "*" anything else will take you to the error page
 6) Happy Coding!
